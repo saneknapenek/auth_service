@@ -27,3 +27,5 @@ async def get_session_db():
 
 
 # commit 22.06.2023
+
+#commit 20.06.2023

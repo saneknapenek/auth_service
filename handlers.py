@@ -6,4 +6,4 @@ from schemas import AuthenticationData
 
 @app.post("/login")
 async def login_user(data: AuthenticationData):
-    
+    pass

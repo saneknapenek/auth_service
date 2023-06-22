@@ -24,3 +24,6 @@ async def get_session_db():
         yield session
     finally:
         session.close()
+
+
+# commit 22.06.2023
